@@ -4,6 +4,6 @@ def display_rainbow(colors)
   V: #{colors[6]}"
 end
 
-colors = [red,orange,yellow,green,blue,indigo,violet]
+colors = ["red","orange","yellow","green","blue","indigo","violet"]
 
 display_rainbow(colors)
